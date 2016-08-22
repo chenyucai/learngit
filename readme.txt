@@ -4,7 +4,5 @@ git has a stage.
 git changes.
 git changes my name.
 this is a and b.
-<<<<<<< HEAD
 abc234234234
-=======
 ddddddd
